@@ -72,22 +72,16 @@
        width="50" height="50" alt="linkedin logo"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
        width="50" height="50" alt="facebook logo"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg"
-       width="50" height="50" alt="twitter logo"/>
-  <img src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1536x1152.png"
-       width="50" height="50" alt="gmail logo"/>
-  <img src="https://www.freepnglogos.com/uploads/logo-outlook-png/microsoft-outlook-macos-icon-12.png"
-       width="50" height="50" alt="microsoft-outlook logo"/>
-  <img src="https://codeforces.org/s/46467/android-icon-192x192.png"
-       width="50" height="50" alt="codeforces logo"/>
-  <img src="https://user-images.githubusercontent.com/71278733/172069045-a92e926c-257e-4dde-a144-76fc2cbcf895.svg"
-       width="50" height="50" alt="hackerrank logo"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg"
-       width="50" height="50" alt="stackoverflow logo"/>
-  <img src="https://s3-eu-west-1.amazonaws.com/dpftw/authors/images/000/000/145/original/data?1609159782"
-       width="50" height="50" alt="medium logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
+       width="50" height="70" alt="gmail logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg"
        width="50" height="50" alt="discord logo"/>
+  <img src="https://user-images.githubusercontent.com/71278733/172069045-a92e926c-257e-4dde-a144-76fc2cbcf895.svg"
+       width="50" height="50" alt="codeforces logo"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+       width="50" height="50" alt="leetcode logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg"
+       width="50" height="50" alt="stackoverflow logo"/>
 </div>
 
 ###

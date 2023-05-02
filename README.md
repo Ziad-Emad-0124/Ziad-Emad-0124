@@ -19,58 +19,75 @@
 ###
 
 <h3 align="left">
+  Language & Tools That I use:
+</h3>
+
+
+<div align="left" padding="30">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" 
+       height="50" width="50" alt="cplusplus logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg"
+       height="50" width="50" alt="java logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kotlin-Dark.svg"
+       height="50" width="50" alt="kotlin logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Dark.svg"
+       height="50" width="50" alt="android logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Dart-Dark.svg"
+       height="50" width="50" alt="dart logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flutter-Dark.svg"
+       height="50" width="50" alt="flutter logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/SQLite.svg"
+       height="50" width="50" alt="sqlite logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Firebase-Dark.svg"
+       height="50" width="50" alt="firebase logo"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg"
+       height="50" width="50" alt="postman logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/XD.svg"
+       height="50" width="50" alt="xd logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg"
+       height="50" width="50" alt="figma logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"
+       height="50" width="50" alt="mysql logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg"
+       height="50" width="50" alt="python logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg"
+       height="50" width="50" alt="git logo"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadEmad0124&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false"
+       height="80" alt="languages graph"/>
+</div>
+
+###
+
+<h3 align="left">
   Connect with me:
 </h3>
 
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
        width="50" height="50" alt="linkedin logo"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+       width="50" height="50" alt="facebook logo"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg"
+       width="50" height="50" alt="twitter logo"/>
   <img src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1536x1152.png"
        width="50" height="50" alt="gmail logo"/>
   <img src="https://www.freepnglogos.com/uploads/logo-outlook-png/microsoft-outlook-macos-icon-12.png"
        width="50" height="50" alt="microsoft-outlook logo"/>
   <img src="https://codeforces.org/s/46467/android-icon-192x192.png"
        width="50" height="50" alt="codeforces logo"/>
-  <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png"
+  <img src="https://user-images.githubusercontent.com/71278733/172069045-a92e926c-257e-4dde-a144-76fc2cbcf895.svg"
        width="50" height="50" alt="hackerrank logo"/>
-  <img src="https://th.bing.com/th/id/R.0b1b13ebbf9793a78676c9776fbb0294?rik=OSYMkG7qk6ridg&pid=ImgRaw&r=0"
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg"
        width="50" height="50" alt="stackoverflow logo"/>
   <img src="https://s3-eu-west-1.amazonaws.com/dpftw/authors/images/000/000/145/original/data?1609159782"
        width="50" height="50" alt="medium logo"/>
-  <img src="https://th.bing.com/th/id/R.7a02976d5cb13d3a0197433b3359c350?rik=3Z1x6gqmLY15Hw&pid=ImgRaw&r=0"
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg"
        width="50" height="50" alt="discord logo"/>
-</div>
-
-###
-
-<h3 align="left">
-  Language & Tools That I use:
-</h3>
-
-
-<div align="left">
-  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" 
-       height="50" width="50" alt="cplusplus logo"/>
-  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
-       height="50" width="50" alt="java logo"/>
-  <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png"
-       height="50" width="50" alt="kotlin logo"/>
-  <img src="https://vision-air.github.io/img/background/android.png"
-       height="50" width="80" alt="android logo"/>
-  <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"
-       height="50" width="50" alt="dart logo"/>
-  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"
-       height="50" width="50" alt="flutter logo"/>
-  <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png"
-       height="50" width="50" alt="xd logo"/>
-  <img src="https://pnggrid.com/wp-content/uploads/2022/02/Figma-Logo-Transparent.png"
-       height="50" width="50" alt="figma logo"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadEmad0124&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###

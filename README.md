@@ -20,7 +20,7 @@
   <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" height="60" width="60" alt="dart logo"/>
   <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter logo"/>
   <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" height="60" width="60" alt="xd logo"/>
-  <img src="https://th.bing.com/th/id/OIP.hI4eHQ7Pjx5ZQ-dS6DEjbAHaHa?pid=ImgDet&rs=1" height="60" width="60" alt="figma logo"/>
+  <img src="https://pnggrid.com/wp-content/uploads/2022/02/Figma-Logo-Transparent.png" height="60" width="60" alt="figma logo"/>
 </div>
 
 ###

@@ -44,7 +44,7 @@
        height="50" width="50" alt="sqlite logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Firebase-Dark.svg"
        height="50" width="50" alt="firebase logo"/>
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg"
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg"
        height="50" width="50" alt="postman logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/XD.svg"
        height="50" width="50" alt="xd logo"/>
@@ -69,6 +69,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadEmad0124&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="2">
 
@@ -109,15 +111,17 @@
 <a href="https://stackoverflow.com/users/16978726/ziad-emad" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg"
        width="50" height="50" alt="stackoverflow logo"/>
-</div>
        </a>
-       
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZiadEmad0124/count.svg?" margin-top="20dp"/>
 </div>
 
 ###
        
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ZiadEmad0124/count.svg?"/>
+</div>
+
+###
+
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="2">
 
 ###

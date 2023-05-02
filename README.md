@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
        width="50" height="50" alt="facebook logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
-       width="50" height="70" alt="gmail logo"/>
+       width="70" height="50" alt="gmail logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg"
        width="50" height="50" alt="discord logo"/>
   <img src="https://user-images.githubusercontent.com/71278733/172069045-a92e926c-257e-4dde-a144-76fc2cbcf895.svg"

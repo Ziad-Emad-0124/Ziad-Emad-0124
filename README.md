@@ -66,17 +66,13 @@
   <img src="https://streak-stats.demolab.com?user=ZiadEmad0124&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadEmad0124&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 ###
 
 ###
 
-<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="2">
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="3">
 
 ###
 ###
@@ -126,7 +122,7 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="2">
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="3">
 
 ###
 ###

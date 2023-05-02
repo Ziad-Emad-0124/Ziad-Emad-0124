@@ -12,7 +12,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw20z-91KqVjcxVjem9w3kWH&ust=1683129661307000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCOlpGO1_4CFQAAAAAdAAAAABAD" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />

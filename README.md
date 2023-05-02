@@ -58,6 +58,18 @@
        height="50" width="50" alt="git logo"/>
 </div>
 
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiadEmad0124&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=ZiadEmad0124&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadEmad0124&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="2">
 
 ###
@@ -99,6 +111,12 @@
        width="50" height="50" alt="stackoverflow logo"/>
 </div>
        </a>
+       
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ZiadEmad0124/count.svg?"  />
+</div>
+
+###
        
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="100%" height="2">
 

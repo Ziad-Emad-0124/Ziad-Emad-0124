@@ -13,14 +13,14 @@
 ###
 
 <div align="left">
-  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" height="60" width="60" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="android logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
+  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" height="60" width="60" alt="cplusplus logo"/>
+  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="60" width="60" alt="java logo"/>
+  <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" height="60" width="60" alt="kotlin logo"/>
+  <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" height="60" width="60" alt="android logo"/>
+  <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" height="60" width="60" alt="dart logo" />
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter logo" />
+  <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" height="60" width="60" alt="xd logo" />
+  <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="60" width="60" alt="figma logo" />
 </div>
 
 ###

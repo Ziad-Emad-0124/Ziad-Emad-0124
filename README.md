@@ -58,6 +58,8 @@
        height="50" width="50" alt="git logo"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="2">
+
 ###
 ###
 
@@ -80,7 +82,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
        width="65" height="50" alt="gmail logo"/>
        </a>
-<a href="discordapp.com/users/1099805200270762106" target="_blank">     
+<a href="https://discordapp.com/users/1099805200270762106/" target="_blank">     
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg"
        width="50" height="50" alt="discord logo"/>
        </a>
@@ -97,6 +99,8 @@
        width="50" height="50" alt="stackoverflow logo"/>
 </div>
        </a>
+       
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="2">
 
 ###
 ###

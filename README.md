@@ -13,14 +13,14 @@
 ###
 
 <div align="left">
-  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" height="60" width="60" alt="cplusplus logo"/>
-  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="60" width="60" alt="java logo"/>
-  <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" height="60" width="60" alt="kotlin logo"/>
-  <img src="https://vision-air.github.io/img/background/android.png" height="60" width="100" alt="android logo"/>
-  <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" height="60" width="60" alt="dart logo"/>
-  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter logo"/>
-  <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" height="60" width="60" alt="xd logo"/>
-  <img src="https://pnggrid.com/wp-content/uploads/2022/02/Figma-Logo-Transparent.png" height="60" width="60" alt="figma logo"/>
+  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" height="40" width="40" alt="cplusplus logo"/>
+  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="40" width="40" alt="java logo"/>
+  <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" height="40" width="40" alt="kotlin logo"/>
+  <img src="https://vision-air.github.io/img/background/android.png" height="40" width="60" alt="android logo"/>
+  <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" height="40" width="40" alt="dart logo"/>
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="40" width="40" alt="flutter logo"/>
+  <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" height="40" width="40" alt="xd logo"/>
+  <img src="https://pnggrid.com/wp-content/uploads/2022/02/Figma-Logo-Transparent.png" height="40" width="40" alt="figma logo"/>
 </div>
 
 ###

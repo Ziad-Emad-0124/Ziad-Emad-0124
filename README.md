@@ -1,12 +1,14 @@
 ###
+###
 
 <h1 align="center">
   Hi 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" 
-  alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  alt="" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
   I'm Ziad Emad
 </h1>
 
+###
 
 <h2 align="center">
   ---Software Engineer---
@@ -17,13 +19,15 @@
 </h2>
 
 ###
+###
 
 <h3 align="left">
   Language & Tools That I use:
 </h3>
 
+###
 
-<div align="left" padding="30">
+<div align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" 
        height="50" width="50" alt="cplusplus logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg"
@@ -54,18 +58,14 @@
        height="50" width="50" alt="git logo"/>
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadEmad0124&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false"
-       height="80" alt="languages graph"/>
-</div>
-
+###
 ###
 
 <h3 align="left">
   Connect with me:
 </h3>
 
+###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -84,4 +84,5 @@
        width="50" height="50" alt="stackoverflow logo"/>
 </div>
 
+###
 ###

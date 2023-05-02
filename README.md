@@ -16,7 +16,7 @@
   <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" height="60" width="60" alt="cplusplus logo"/>
   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="60" width="60" alt="java logo"/>
   <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" height="60" width="60" alt="kotlin logo"/>
-  <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png" height="100" width="100" alt="android logo"/>
+  <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-0-1.png" height="100" width="60" alt="android logo"/>
   <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" height="60" width="60" alt="dart logo"/>
   <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter logo"/>
   <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" height="60" width="60" alt="xd logo"/>

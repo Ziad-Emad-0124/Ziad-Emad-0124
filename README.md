@@ -58,7 +58,7 @@
        height="50" width="50" alt="git logo"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" min_width="100%" height="2">
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" max_width="100%" height="2">
 
 ###
 ###
@@ -100,7 +100,7 @@
 </div>
        </a>
        
-<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" min_width="100%" height="2">
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" max_width="100%" height="2">
 
 ###
 ###

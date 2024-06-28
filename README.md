@@ -14,8 +14,6 @@
   ---Software Engineer---
   <br>
   --Mobile Developer--
-  <br>
-  -Android & Flutter-
 </h2>
 
 ###

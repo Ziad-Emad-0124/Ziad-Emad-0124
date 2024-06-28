@@ -34,8 +34,6 @@
        height="50" width="50" alt="kotlin logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AndroidStudio-Dark.svg"
        height="50" width="50" alt="android logo"/>
-  <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png"
-       height="50" width="50" alt="Jetpack Compose logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Ktor-Dark.svg"
        height="50" width="50" alt="Ktor logo"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Dart-Dark.svg"
